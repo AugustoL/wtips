@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created by diasvg.py -->
-<svg width="55.512cm" height="28.525cm" viewBox="17.912 -3.287 55.512 28.525"
+<svg width="56.963cm" height="28.525cm" viewBox="16.462 -3.287 56.963 28.525"
  xmlns="http://www.w3.org/2000/svg"
  xmlns:xlink="http://www.w3.org/1999/xlink">
 <!-- Layer: Pozadí -->
@@ -8,8 +8,8 @@
 <!-- Flowchart - Box -->
 <rect x="30.623" y="17.950" width="26.977" height="7.238" fill="#FFFFFF" stroke="#000000" stroke-width="0.100" stroke-dasharray="0.10,0.10" rx="0.000" />
 <!-- Flowchart - Box -->
-<rect x="23.436" y="6.475" width="6.735" height="3.350" fill="#FFFFFF" stroke="#000000" stroke-width="0.100"  rx="0.000" />
-<text x="26.803" y="8.345"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+<rect x="21.986" y="6.475" width="6.735" height="3.350" fill="#FFFFFF" stroke="#000000" stroke-width="0.100"  rx="0.000" />
+<text x="25.353" y="8.345"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
 Airline data root</text>
 <!-- Standard - Line -->
 <line x1="26.300" y1="13.800" x2="61.250" y2="13.900" stroke="#000000" stroke-width="0.100" stroke-dasharray="1.00,1.00"/>
@@ -38,17 +38,17 @@ Airline data</text>
 <text x="52.424" y="21.195"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
 root URI</text>
 <!-- Flowchart - Box -->
-<rect x="17.962" y="1.538" width="4.575" height="1.900" fill="#FFFFFF" stroke="#000000" stroke-width="0.100"  rx="0.000" />
-<text x="20.250" y="2.683"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+<rect x="16.512" y="1.538" width="4.575" height="1.900" fill="#FFFFFF" stroke="#000000" stroke-width="0.100"  rx="0.000" />
+<text x="18.800" y="2.683"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
 Static data</text>
 <!-- Flowchart - Box -->
-<rect x="25.049" y="1.487" width="3.802" height="1.900" fill="#FFFFFF" stroke="#000000" stroke-width="0.100"  rx="0.000" />
-<text x="26.950" y="2.632"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
-Services</text>
-<!-- Flowchart - Box -->
-<rect x="31.441" y="1.538" width="3.218" height="1.900" fill="#FFFFFF" stroke="#000000" stroke-width="0.100"  rx="0.000" />
-<text x="33.050" y="2.683"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+<rect x="23.599" y="1.487" width="3.802" height="1.900" fill="#FFFFFF" stroke="#000000" stroke-width="0.100"  rx="0.000" />
+<text x="25.500" y="2.632"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
 Flights</text>
+<!-- Flowchart - Box -->
+<rect x="28.450" y="1.538" width="8.850" height="1.900" fill="#FFFFFF" stroke="#000000" stroke-width="0.100"  rx="0.000" />
+<text x="32.875" y="2.683"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+FlightInstances</text>
 <!-- Flowchart - Box -->
 <rect x="22.511" y="-3.062" width="6.145" height="1.900" fill="#FFFFFF" stroke="#000000" stroke-width="0.100"  rx="0.000" />
 <text x="25.584" y="-1.917"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
@@ -69,34 +69,34 @@ Static data</text>
 <!-- Flowchart - Box -->
 <rect x="48.776" y="1.888" width="3.803" height="1.900" fill="#FFFFFF" stroke="#000000" stroke-width="0.100"  rx="0.000" />
 <text x="50.678" y="3.033"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
-Services</text>
-<!-- Flowchart - Box -->
-<rect x="55.319" y="1.837" width="3.218" height="1.900" fill="#FFFFFF" stroke="#000000" stroke-width="0.100"  rx="0.000" />
-<text x="56.927" y="2.982"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
 Flights</text>
 <!-- Flowchart - Box -->
-<rect x="46.389" y="-3.013" width="6.145" height="1.900" fill="#FFFFFF" stroke="#000000" stroke-width="0.100"  rx="0.000" />
-<text x="49.461" y="-1.868"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+<rect x="53.957" y="1.837" width="8.743" height="1.900" fill="#FFFFFF" stroke="#000000" stroke-width="0.100"  rx="0.000" />
+<text x="58.329" y="2.982"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+FlightInstances</text>
+<!-- Flowchart - Box -->
+<rect x="47.789" y="-3.013" width="6.145" height="1.900" fill="#FFFFFF" stroke="#000000" stroke-width="0.100"  rx="0.000" />
+<text x="50.861" y="-1.868"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
 BB123 Flights</text>
 <!-- Flowchart - Box -->
-<rect x="53.767" y="-3.087" width="6.145" height="1.900" fill="#FFFFFF" stroke="#000000" stroke-width="0.100"  rx="0.000" />
-<text x="56.840" y="-1.942"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+<rect x="55.168" y="-3.087" width="6.145" height="1.900" fill="#FFFFFF" stroke="#000000" stroke-width="0.100"  rx="0.000" />
+<text x="58.240" y="-1.942"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
 BB456 Flights</text>
 <!-- Standard - Line -->
-<line x1="24.832" y1="6.447" x2="21.574" y2="3.632" stroke="#29C42A" stroke-width="0.100" />
-<polyline fill="none" stroke="#29C42A" stroke-width="0.100"  points="22.031,3.696 21.490,3.559 21.705,4.075 "/>
+<line x1="23.382" y1="6.447" x2="20.124" y2="3.632" stroke="#29C42A" stroke-width="0.100" />
+<polyline fill="none" stroke="#29C42A" stroke-width="0.100"  points="20.581,3.696 20.040,3.559 20.255,4.075 "/>
 <!-- Standard - Line -->
-<line x1="26.847" y1="6.426" x2="26.918" y2="3.661" stroke="#29C42A" stroke-width="0.100" />
-<polyline fill="none" stroke="#29C42A" stroke-width="0.100"  points="27.158,4.056 26.921,3.550 26.659,4.043 "/>
+<line x1="25.397" y1="6.426" x2="25.468" y2="3.661" stroke="#29C42A" stroke-width="0.100" />
+<polyline fill="none" stroke="#29C42A" stroke-width="0.100"  points="25.708,4.056 25.471,3.550 25.209,4.043 "/>
 <!-- Standard - Line -->
-<line x1="28.682" y1="6.447" x2="31.783" y2="3.636" stroke="#29C42A" stroke-width="0.100" />
-<polyline fill="none" stroke="#29C42A" stroke-width="0.100"  points="31.664,4.082 31.866,3.561 31.328,3.711 "/>
+<line x1="27.616" y1="6.447" x2="31.370" y2="3.620" stroke="#29C42A" stroke-width="0.100" />
+<polyline fill="none" stroke="#29C42A" stroke-width="0.100"  points="31.211,4.053 31.460,3.553 30.910,3.654 "/>
 <!-- Standard - Line -->
-<line x1="31.427" y1="1.487" x2="27.397" y2="-0.995" stroke="#29C42A" stroke-width="0.100" />
-<polyline fill="none" stroke="#29C42A" stroke-width="0.100"  points="27.859,-1.004 27.302,-1.054 27.597,-0.579 "/>
+<line x1="31.290" y1="1.487" x2="27.358" y2="-0.993" stroke="#29C42A" stroke-width="0.100" />
+<polyline fill="none" stroke="#29C42A" stroke-width="0.100"  points="27.820,-0.997 27.264,-1.053 27.553,-0.575 "/>
 <!-- Standard - Line -->
-<line x1="33.031" y1="1.487" x2="32.985" y2="-0.964" stroke="#29C42A" stroke-width="0.100" />
-<polyline fill="none" stroke="#29C42A" stroke-width="0.100"  points="33.243,-0.580 32.983,-1.075 32.743,-0.571 "/>
+<line x1="32.894" y1="1.487" x2="32.940" y2="-0.964" stroke="#29C42A" stroke-width="0.100" />
+<polyline fill="none" stroke="#29C42A" stroke-width="0.100"  points="33.182,-0.571 32.942,-1.075 32.682,-0.580 "/>
 <!-- Standard - Line -->
 <line x1="48.438" y1="6.476" x2="45.395" y2="4.028" stroke="#29C42A" stroke-width="0.100" />
 <polyline fill="none" stroke="#29C42A" stroke-width="0.100"  points="45.854,4.077 45.308,3.958 45.541,4.466 "/>
@@ -104,17 +104,17 @@ BB456 Flights</text>
 <line x1="50.612" y1="6.476" x2="50.655" y2="4.059" stroke="#29C42A" stroke-width="0.100" />
 <polyline fill="none" stroke="#29C42A" stroke-width="0.100"  points="50.898,4.451 50.657,3.947 50.398,4.442 "/>
 <!-- Standard - Line -->
-<line x1="52.603" y1="6.476" x2="55.585" y2="3.932" stroke="#29C42A" stroke-width="0.100" />
-<polyline fill="none" stroke="#29C42A" stroke-width="0.100"  points="55.452,4.374 55.670,3.860 55.127,3.994 "/>
+<line x1="53.049" y1="6.476" x2="56.714" y2="3.915" stroke="#29C42A" stroke-width="0.100" />
+<polyline fill="none" stroke="#29C42A" stroke-width="0.100"  points="56.539,4.342 56.806,3.851 56.253,3.933 "/>
 <!-- Standard - Line -->
-<line x1="55.388" y1="1.788" x2="51.188" y2="-0.941" stroke="#29C42A" stroke-width="0.100" />
-<polyline fill="none" stroke="#29C42A" stroke-width="0.100"  points="51.650,-0.939 51.094,-1.002 51.378,-0.520 "/>
+<line x1="56.789" y1="1.788" x2="52.588" y2="-0.941" stroke="#29C42A" stroke-width="0.100" />
+<polyline fill="none" stroke="#29C42A" stroke-width="0.100"  points="53.050,-0.939 52.495,-1.002 52.778,-0.520 "/>
 <!-- Standard - Line -->
-<line x1="56.910" y1="1.826" x2="56.861" y2="-0.952" stroke="#29C42A" stroke-width="0.100" />
-<polyline fill="none" stroke="#29C42A" stroke-width="0.100"  points="57.118,-0.568 56.859,-1.064 56.618,-0.559 "/>
+<line x1="58.311" y1="1.826" x2="58.261" y2="-0.952" stroke="#29C42A" stroke-width="0.100" />
+<polyline fill="none" stroke="#29C42A" stroke-width="0.100"  points="58.518,-0.568 58.259,-1.064 58.018,-0.559 "/>
 <!-- Standard - Line -->
-<line x1="35.050" y1="19.150" x2="28.230" y2="10.054" stroke="#29C42A" stroke-width="0.100" />
-<polyline fill="none" stroke="#29C42A" stroke-width="0.100"  points="28.663,10.214 28.163,9.964 28.263,10.514 "/>
+<line x1="35.050" y1="19.150" x2="27.021" y2="10.043" stroke="#29C42A" stroke-width="0.100" />
+<polyline fill="none" stroke="#29C42A" stroke-width="0.100"  points="27.466,10.168 26.948,9.959 27.091,10.499 "/>
 <!-- Standard - Line -->
 <line x1="43.774" y1="19.175" x2="49.396" y2="10.110" stroke="#29C42A" stroke-width="0.100" />
 <polyline fill="none" stroke="#29C42A" stroke-width="0.100"  points="49.404,10.572 49.455,10.015 48.979,10.308 "/>
@@ -130,15 +130,15 @@ BB456 Flights</text>
 <text x="40.512" y="-2.092"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
 ...</text>
 <!-- Flowchart - Box -->
-<rect x="61.390" y="-3.137" width="6.145" height="1.900" fill="#FFFFFF" stroke="#000000" stroke-width="0.100"  rx="0.000" />
-<text x="64.463" y="-1.992"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+<rect x="62.790" y="-3.137" width="6.145" height="1.900" fill="#FFFFFF" stroke="#000000" stroke-width="0.100"  rx="0.000" />
+<text x="65.863" y="-1.992"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
 ...</text>
 <!-- Standard - Line -->
-<line x1="34.611" y1="1.488" x2="38.763" y2="-1.168" stroke="#29C42A" stroke-width="0.100" />
-<polyline fill="none" stroke="#29C42A" stroke-width="0.100"  points="38.571,-0.748 38.857,-1.228 38.301,-1.169 "/>
+<line x1="34.473" y1="1.488" x2="38.725" y2="-1.170" stroke="#29C42A" stroke-width="0.100" />
+<polyline fill="none" stroke="#29C42A" stroke-width="0.100"  points="38.528,-0.752 38.820,-1.229 38.263,-1.176 "/>
 <!-- Standard - Line -->
-<line x1="58.436" y1="1.792" x2="62.767" y2="-1.068" stroke="#29C42A" stroke-width="0.100" />
-<polyline fill="none" stroke="#29C42A" stroke-width="0.100"  points="62.581,-0.646 62.861,-1.130 62.306,-1.063 "/>
+<line x1="59.837" y1="1.792" x2="64.168" y2="-1.068" stroke="#29C42A" stroke-width="0.100" />
+<polyline fill="none" stroke="#29C42A" stroke-width="0.100"  points="63.982,-0.646 64.261,-1.130 63.706,-1.063 "/>
 <!-- Standard - Text -->
 <text x="41.261" y="24.175"  fill="#000000" text-anchor="start" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
 WT Airline Index</text>
