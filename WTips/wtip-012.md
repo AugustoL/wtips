@@ -40,17 +40,29 @@ The hotel contract will be removed and the WTIndex can register different types 
 The WTIndex contract will be owned by the WT main multisignature wallet and it will manage the ownership of the windingtree.eth subdomains.
 The domains can enable recovery and shared management features, this feature can have a cost per X amount of blocks, but is intended to be free at the beginning.
 
-The WTIndex contract will also have types of domains, the domains can be: hotel, airline or personal. More domain types can be added in the future and only WT have permissions for it.
+The WTIndex contract will also have types of domains, the domains can be: hotel, airline or personal. More domain types can be added in the future and only WT have permissions for it. Every domain type will haven array of all his registered members.
 
 ### WT Resolver Contract
 
 The WTResolver contract will be based on the [PublicResolver](https://github.com/ensdomains/ens/blob/master/contracts/PublicResolver.sol) contract that is being used on ENS. It will have store the following type of records:
 - Name, string type.
 - Address, address type.
-- Text, string type.
+- Text, mapping(string => string).
 - URI, string type.
 - Content, bytes32 type.
 - Public key, SECP256k1 public key, saving x and y coordinates of the curve point of the public key in bytes32.
+
+## Rationale
+
+**What are the requirements posed on hotel owners? Do they have to keep the domain somehow alive? Or do they just register once?**
+[Answer on ENS FAQ](http://docs.ens.domains/en/latest/faq.html#what-kinds-of-behaviours-are-likely-to-result-in-losing-ownership-of-a-name)
+
+**Can the domain owner of hotel.windingtree.eth assign new subdomains to it?**
+Yes, the domain owner can assign any subdomain he wants and also set resolvers for it, for example: awesome-hotel.windingtree.eth can assign address resolvers to booking.awesome-hotel.windingtree.eth and use the nameHash to receive all payments from any room on his hotel.
+
+**Who else owns the windingtre.eth domains?**
+All ENS domains are owned by a multisignature that is governed by Ethereum Name Service, and the windingtree.eth domain is owned by the multisignature that is governed by Winding Tree core team.
+Both ENS and WT have permissions to make any modification to the subdomains on windingtree.eth.
 
 ## Backwards Compatibility
 This changes will affect the libraries and APIs built around the WT Index contract, the hotels will be identified by domain name or nameHash instead of an address. This will be the only difference with the current implementation
